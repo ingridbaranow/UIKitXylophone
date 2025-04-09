@@ -4,12 +4,12 @@
 
 ## The Goal
 
-The goal with this project was to dive into a simple iOS recipe: how to play sounds using Apple’s AVFoundation framework. I believe one of the most important skills as a developer is knowing how to solve own problems. For that, I explored StackOverflow, the Apple Documentation, and practiced how to search for solutions effectively. By learning to use these tools, I can now start adding custom features to an app and make it do exactly what I want.
+The goal of this project was to discover how to play sounds using Apple’s AVFoundation framework. I learned that one of the most important skills as a developer is knowing how to solve my own problems. To do that, I explored StackOverflow, the Apple Documentation, and practiced how to search for solutions effectively. By learning to use these tools, I can now start adding custom features to apps and make them do exactly what I want (freedom? I hope so!)
 
 
 ## What I created
 
-I built my first musical instrument app! I created a colorful Xylophone app—yep, the XyloPhone! (Okay, the joke’s a bit cheesy, but I had to include it!)
+I built my first musical instrument app! I created a colorful Xylophone app — the XyloPhone! (Okay, the joke’s bad, but I had to do it!). The user taps the buttons and hears the corresponding sounds.
 
 ## What I learned
 
